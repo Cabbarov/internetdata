@@ -1,0 +1,23 @@
+.table{
+    font-size: 13px;
+    text-align: center;
+    width: 95%;
+    margin: auto;
+    text-align: center;
+}
+
+.table tr:nth-child(odd){
+    background: #BBCAE4;
+}
+.table tr:nth-child(even){
+    background: #dae5f4;
+}
+
+th {
+    background-color: #337ab7;
+    color: white;
+}
+
+.aaa {
+    color: red;
+}
